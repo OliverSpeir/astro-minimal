@@ -9,7 +9,7 @@
 		"preview": "astro preview",
 		"check": "astro check",
 		"lint": "eslint .",
-		"format": "prettier -w --cache . && prettier -w --cache **/*.astro"
+		"format": "prettier -w --cache ."
 	},
 	"dependencies": {
 		"astro": "^5.0.9"
