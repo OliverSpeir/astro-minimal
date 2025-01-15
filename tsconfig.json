@@ -9,7 +9,8 @@
 			"@components/*": ["src/components/*"],
 			"@layouts/*": ["src/layouts/*"],
 			"@assets/*": ["src/assets/*"],
-			"@utils": ["src/lib/utils/index"]
+			"@lib/*": ["src/lib/*"],
+			"@modules/*": ["src/modules/*"]
 		}
 	},
 	"exclude": ["dist/"]
