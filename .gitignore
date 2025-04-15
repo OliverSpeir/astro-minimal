@@ -28,3 +28,5 @@ pnpm-debug.log*
 tsconfig.tsbuildinfo
 .vscode
 **/.gitkeep
+.dev.vars
+*.env
