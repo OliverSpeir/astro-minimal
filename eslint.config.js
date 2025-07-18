@@ -49,6 +49,7 @@ export default tseslint.config(
 	},
 
 	...eslintPluginAstro.configs.recommended,
+	...eslintPluginAstro.configs["flat/jsx-a11y-strict"],
 
 	// Disabled because eslint-plugin-astro doesn't type Astro.props correctly in some contexts
 	{
